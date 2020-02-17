@@ -7,17 +7,17 @@ function Footer() {
         <ul className="social-list">
           <li className="social-item">
             <a className="social-link" href="https://codepen.io/oscar-ornelas-frontenddev">
-              <i class="fab fa-codepen"></i>
+              <i className="fab fa-codepen"></i>
             </a>
           </li>
           <li className="social-item">
-            <a className="social-link" href="https://www.facebook.com/oscar.ornelas.988">
-              <i class="fab fa-facebook-square"></i>
+            <a className="social-link" href="#">
+              <i className="fab fa-linkedin"></i>
             </a>
           </li>
           <li className="social-item">
             <a className="social-link" href="https://github.com/Oscar-Ornelas?tab=repositories">
-              <i class="fab fa-github-square"></i>
+              <i className="fab fa-github-square"></i>
             </a>
           </li>
         </ul>

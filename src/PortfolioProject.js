@@ -6,8 +6,8 @@ function PortfolioProject(props) {
       <img className="project-img" src={props.img}/>
       <figcaption className="caption">{props.caption}</figcaption>
       <span className="project-btns">
-        <a className="btn btn-project" href={props.repoURL}>View Repo</a>
-        <a className="btn btn-project" href={props.projectURL}>View Project</a>
+        <a className="btn btn-project" href={props.repoURL} target="_blank" rel="noopener noreferrer">View Code</a>
+        <a className="btn btn-project" href={props.projectURL} target="_blank" rel="noopener noreferrer">View Project</a>
       </span>
     </div>
   )

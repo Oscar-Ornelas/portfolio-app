@@ -21,9 +21,10 @@ class Header extends React.Component {
 
             <ul className="nav-list">
               <li className="nav-item" ><a className="nav-link" href="#projects">Projects</a></li>
-              <li className="nav-item" ><a className="nav-link" href="#skills">Skills</a></li>
-              <li className="nav-item" ><a className="nav-link" href="#contact">Contact</a></li>
-              <li className="nav-item" ><a className="nav-link" href="#">Resume</a></li>
+              <li className="nav-item" ><a className="nav-link" href="#">Resume <i class="fas fa-download resume-icon"></i></a></li>
+              <li className="nav-item" ><a className="nav-link" href="#contact"><i className="fab fa-github-square nav-social"></i></a></li>
+              <li className="nav-item" ><a className="nav-link" href="#contact"><i className="fab fa-codepen nav-social"></i></a></li>
+              <li className="nav-item" ><a className="nav-link" href="#contact"><i className="fab fa-linkedin nav-social"></i></a></li>
             </ul>
           </nav>
         </div>
