@@ -8,7 +8,7 @@ function Portfolio() {
     <section id="projects">
       <div className="section-intro">
         <h1 className="section-header">My Recent Work</h1>
-        <p className="section-subtitle">Some of my most latest and greatest projects</p>
+        <p className="section-subtitle">Some of my latest and greatest projects</p>
       </div>
       <div className="portfolio">
         <Project

@@ -21,7 +21,7 @@ function SkillsContainer() {
           id="css"
         />
         <Skill
-          skill="Interactive ES6 JavaScript"
+          skill="Interactive JavaScript"
           emoticon="fa-js-square"
           id="javascript"
         />
