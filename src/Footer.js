@@ -6,17 +6,17 @@ function Footer() {
       <a class="email" href="mailto:oscarornelas98123@gmail.com">oscarornelas98123@gmail.com</a>
         <ul className="social-list">
           <li className="social-item">
-            <a className="social-link" href="https://codepen.io/oscar-ornelas-frontenddev">
+            <a className="social-link" target="_blank" rel="noopener noreferrer" href="https://codepen.io/oscar-ornelas-frontenddev">
               <i className="fab fa-codepen"></i>
             </a>
           </li>
           <li className="social-item">
-            <a className="social-link" href="#">
+            <a className="social-link" target="_blank" rel="noopener noreferrer" href="#">
               <i className="fab fa-linkedin"></i>
             </a>
           </li>
           <li className="social-item">
-            <a className="social-link" href="https://github.com/Oscar-Ornelas?tab=repositories">
+            <a className="social-link" target="_blank" rel="noopener noreferrer" href="https://github.com/Oscar-Ornelas?tab=repositories">
               <i className="fab fa-github-square"></i>
             </a>
           </li>
