@@ -317,9 +317,9 @@ a:visited {
 .project-btns {
   display: flex;
   justify-content: space-between;
-  padding: 0 2.5em 1.5em;
+  padding: 0 2.5em 3em;
   letter-spacing: 0.3px;
-  font-size: 0.6rem;
+  font-size: 0.45rem;
 }
 
 .btn-project {
@@ -342,7 +342,7 @@ a:visited {
 .skills-container {
   display: grid;
   grid-template-columns: repeat(4, 25%);
-  grid-gap: 0.75em;
+  grid-gap: 0.5em;
   margin: 2em 0;
   margin-right: 1.5em;
 }
@@ -350,9 +350,10 @@ a:visited {
 .skill {
   color: #0F1626;
   text-align: center;
-  padding: 5px 12px;
+  padding: 6px 10px;
   background: #FF533D;
   border-radius: 5px;
+  font-size: 0.9rem;
   -webkit-transition: background-color 400ms,
                       color 400ms;
 }
@@ -432,12 +433,11 @@ a:visited {
 .email:visited {
   font-size: 1.10rem;
   margin: 0 0 1em 0;
-  opacity: 80%;
 }
 
 .email:hover,
 .email:focus {
-  opacity: 100%;
+  opacity: 80%;
   text-decoration: underline;
 }
 
@@ -450,10 +450,9 @@ a:visited {
 
 .social-link {
   margin: 0 1em 0 0;
-  opacity: 80%;
 }
 
 .social-link:hover,
 .social-link:focus {
-  opacity: 100%;
+  opacity: 60%;
 }
