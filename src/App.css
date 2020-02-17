@@ -317,13 +317,13 @@ a:visited {
 
 /*Portfolio*/
 .portfolio-container {
-  padding: 0 1.5em;
+  padding: 0 1.75em;
 }
 
 .portfolio {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 1.5em;
+  grid-gap: 2em;
   color: #F5F5F5;
 }
 
