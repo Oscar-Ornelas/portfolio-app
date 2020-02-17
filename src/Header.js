@@ -17,7 +17,7 @@ class Header extends React.Component {
           <img className="logo" alt="" src={logo}/>
         </a>
           <button onClick={this.toggleNavSlide} aria-label="Open navigation" className="open-nav">&#9776;</button>
-          <nav className={this.state.navSlide ? "nav navigation-open" : "nav"}>
+          <nav className={this.state.navSlide ? "nav navigation-open" : "nav navigation-close"}>
 
             <ul className="nav-list">
               <li className="nav-item" ><a className="nav-link" href="#projects">Projects</a></li>

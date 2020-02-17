@@ -5,7 +5,7 @@ import Project from './PortfolioProject';
 
 function Portfolio() {
   return (
-    <section id="projects">
+    <section id="projects" className="portfolio-container">
       <div className="section-intro">
         <h1 className="section-header">My Recent Work</h1>
         <p className="section-subtitle">Some of my latest and greatest projects</p>

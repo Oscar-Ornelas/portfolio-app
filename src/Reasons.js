@@ -2,7 +2,7 @@ import React from 'react';
 
 function Reasons() {
   return (
-    <section className="reasons">
+    <section className="reasons container">
       <div className="section-intro">
         <h1 className="reasons-header section-header">Why Hire Me?</h1>
         <p className="section-subtitle">Only a few of the advantages of working with me</p>

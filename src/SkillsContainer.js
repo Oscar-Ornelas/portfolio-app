@@ -3,7 +3,7 @@ import Skill from './Skill.js';
 
 function SkillsContainer() {
   return (
-    <section id="skills">
+    <section id="skills" className="container">
       <div className="section-intro">
         <h1 className="section-header">Technological Skills</h1>
         <p className="section-subtitle">I'm always learning new technologies that will improve your company</p>
