@@ -41,9 +41,9 @@ function SkillsContainer() {
           id="react"
         />
         <Skill
-          skill="Redux"
+          skill="React Hooks"
           emoticon="fa-react"
-          id="redux"
+          id="react-hooks"
         />
         <Skill
           skill="Problem Solver"

@@ -413,7 +413,7 @@ a:visited {
 .css,
 .github,
 .react,
-.redux,
+.react-hooks,
 .problem-solver
 {
  grid-column: span 2;
@@ -448,7 +448,7 @@ a:visited {
   }
 
   .react,
-  .redux {
+  .react-hooks {
     order: -1;
     grid-column: span 3;
   }
