@@ -20,8 +20,7 @@ function Header() {
           <ul className="nav-list">
             <li className="nav-item" ><a className="nav-link" href="#projects">Projects</a></li>
             <li className="nav-item" ><a className="nav-link" href="#">Resume <i class="fas fa-download resume-icon"></i></a></li>
-            <li className="nav-item" ><a className="nav-link" href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-github-square nav-social"></i></a></li>
-            <li className="nav-item" ><a className="nav-link" href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-codepen nav-social"></i></a></li>
+            <li className="nav-item" ><a className="nav-link" href="https://github.com/Oscar-Ornelas?tab=repositories" target="_blank" rel="noopener noreferrer"><i className="fab fa-github-square nav-social"></i></a></li>
             <li className="nav-item" ><a className="nav-link" href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin nav-social"></i></a></li>
           </ul>
         </nav>

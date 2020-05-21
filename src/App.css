@@ -151,7 +151,7 @@ a:visited {
 .nav-item {
   text-align: center;
   font-size: 0.9rem;
-  padding: 0 1.25em;
+  padding: 0 1.75em;
   letter-spacing: 0.8px;
   transform: translateY(0);
   transition: transform 500ms;
