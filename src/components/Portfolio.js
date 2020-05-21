@@ -26,7 +26,7 @@ function Portfolio() {
         />
         <Project
           img={calculator}
-          caption="A Calculator built in React to perform the functions required in most daily calculator usages from calculating percentages to performing several calculations on a single line."
+          caption="A calculator built in React to perform the functions required in most daily calculator usages from calculating percentages to performing several calculations on a single line."
           repoURL="https://github.com/Oscar-Ornelas/calculator-app"
           projectURL="https://oscar-ornelas.github.io/calculator-app/"
         />
