@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-app/static/css/main.265262ab.chunk.css",
-    "main.js": "/portfolio-app/static/js/main.2d7ec3ac.chunk.js",
-    "main.js.map": "/portfolio-app/static/js/main.2d7ec3ac.chunk.js.map",
+    "main.css": "/portfolio-app/static/css/main.3ea3a6bd.chunk.css",
+    "main.js": "/portfolio-app/static/js/main.461b5144.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.461b5144.chunk.js.map",
     "runtime-main.js": "/portfolio-app/static/js/runtime-main.c721982f.js",
     "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.c721982f.js.map",
-    "static/js/2.ef3e295a.chunk.js": "/portfolio-app/static/js/2.ef3e295a.chunk.js",
-    "static/js/2.ef3e295a.chunk.js.map": "/portfolio-app/static/js/2.ef3e295a.chunk.js.map",
+    "static/js/2.3abb4e9b.chunk.js": "/portfolio-app/static/js/2.3abb4e9b.chunk.js",
+    "static/js/2.3abb4e9b.chunk.js.map": "/portfolio-app/static/js/2.3abb4e9b.chunk.js.map",
     "index.html": "/portfolio-app/index.html",
-    "precache-manifest.960d9bf847401677c26ad056723aec12.js": "/portfolio-app/precache-manifest.960d9bf847401677c26ad056723aec12.js",
+    "precache-manifest.a7efe371eec68241f04b226e67c842f8.js": "/portfolio-app/precache-manifest.a7efe371eec68241f04b226e67c842f8.js",
     "service-worker.js": "/portfolio-app/service-worker.js",
-    "static/css/main.265262ab.chunk.css.map": "/portfolio-app/static/css/main.265262ab.chunk.css.map",
-    "static/js/2.ef3e295a.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.ef3e295a.chunk.js.LICENSE.txt",
-    "static/media/calculator.PNG": "/portfolio-app/static/media/calculator.0348d04c.PNG"
+    "static/css/main.3ea3a6bd.chunk.css.map": "/portfolio-app/static/css/main.3ea3a6bd.chunk.css.map",
+    "static/js/2.3abb4e9b.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.3abb4e9b.chunk.js.LICENSE.txt",
+    "static/media/calculator.PNG": "/portfolio-app/static/media/calculator.8ce26482.PNG",
+    "static/media/classical_junkie.PNG": "/portfolio-app/static/media/classical_junkie.4b1dc084.PNG",
+    "static/media/film_box.PNG": "/portfolio-app/static/media/film_box.144c2cbb.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.c721982f.js",
-    "static/js/2.ef3e295a.chunk.js",
-    "static/css/main.265262ab.chunk.css",
-    "static/js/main.2d7ec3ac.chunk.js"
+    "static/js/2.3abb4e9b.chunk.js",
+    "static/css/main.3ea3a6bd.chunk.css",
+    "static/js/main.461b5144.chunk.js"
   ]
 }
