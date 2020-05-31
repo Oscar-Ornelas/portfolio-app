@@ -20,7 +20,7 @@ function Portfolio() {
         />
         <Project
           img={classical_junkie}
-          caption="A Spotify clone built in React for Spotify premium users which allows the user to search and play for classical music. This project utilizes the Spotify Web API and Web Playback SDK."
+          caption="A Spotify clone built in React for Spotify premium users which allows the user to search for and play classical music. This project utilizes the Spotify Web API and Web Playback SDK."
           repoURL="https://github.com/Oscar-Ornelas/classical-junkie"
           projectURL="https://oscar-ornelas.github.io/classical-junkie/"
         />
