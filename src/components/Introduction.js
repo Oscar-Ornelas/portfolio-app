@@ -1,4 +1,5 @@
 import React from 'react';
+import resume from '../resume/OscarOrnelasResume.pdf';
 
 function Introduction() {
   return (
@@ -11,7 +12,7 @@ function Introduction() {
         <p className="info">I'm here to become the best front-end web developer possible to provide as much value as possible to companies like yours.</p>
         <div class="intro-buttons">
           <a href="#projects" className="btn btn-intro">Check Out My Projects</a>
-          <a href="#" className="btn btn-intro">Download Resume</a>
+          <a href={resume} className="btn btn-intro">Download Resume</a>
         </div>
       </div>
     </section>
