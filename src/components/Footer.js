@@ -6,7 +6,7 @@ function Footer() {
       <a class="email" href="mailto:oscarornelas98123@gmail.com">oscarornelas98123@gmail.com</a>
         <ul className="social-list">
           <li className="social-item">
-            <a className="social-link" target="_blank" rel="noopener noreferrer" href="#">
+            <a className="social-link" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/oscar-ornelas-018a021a8/">
               <i className="fab fa-linkedin"></i>
             </a>
           </li>
