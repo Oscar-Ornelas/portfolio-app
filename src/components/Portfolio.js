@@ -2,6 +2,7 @@ import React from 'react';
 import calculator from '../imgs/calculator.PNG';
 import film_box from '../imgs/film_box.PNG';
 import classical_junkie from '../imgs/classical_junkie.PNG';
+import real_speak from '../imgs/real_speak.PNG';
 import Project from './PortfolioProject';
 
 function Portfolio() {
@@ -12,6 +13,12 @@ function Portfolio() {
         <p className="section-subtitle">Some of my latest and greatest projects</p>
       </div>
       <div className="portfolio">
+        <Project
+          img={real_speak}
+          caption="A Discord/Slack clone built using React which allows for real-time communication in a group chat. This project utilizes Socket IO, Auth0, Node.js, Express, and MongoDB."
+          repoURL="https://github.com/Oscar-Ornelas/real-speak"
+          projectURL="https://real-speak.herokuapp.com/"
+        />
         <Project
           img={film_box}
           caption="An IMBd clone built using React which dynamically displays current film information including films now playing in theaters and most popular. This project utilizes The Movie Database API."
