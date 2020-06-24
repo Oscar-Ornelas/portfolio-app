@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73f9b7f5dbece902cc9064b6ed8d87ea",
+    "revision": "b081cc711814d45e55bb8f18599e0d30",
     "url": "/portfolio-app/index.html"
   },
   {
-    "revision": "5a32fb15bfc3fa383bf6",
+    "revision": "bdd94424deec85bec56c",
     "url": "/portfolio-app/static/css/main.3ea3a6bd.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-app/static/js/2.39bdc528.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a32fb15bfc3fa383bf6",
-    "url": "/portfolio-app/static/js/main.e1c95af2.chunk.js"
+    "revision": "bdd94424deec85bec56c",
+    "url": "/portfolio-app/static/js/main.3ecd5b96.chunk.js"
   },
   {
     "revision": "4f9b97746fed4942fb04",
     "url": "/portfolio-app/static/js/runtime-main.c721982f.js"
   },
   {
-    "revision": "cde36c23b98adbcaaed3b722ff13e74b",
-    "url": "/portfolio-app/static/media/OscarOrnelasResume.cde36c23.pdf"
+    "revision": "2f75676a1cd89f03a627f8d2bd284a32",
+    "url": "/portfolio-app/static/media/OscarOrnelasResume.2f75676a.pdf"
   },
   {
     "revision": "8ce26482f73c6edfac467d203a18b39d",
