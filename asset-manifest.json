@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/portfolio-app/static/css/main.3ea3a6bd.chunk.css",
-    "main.js": "/portfolio-app/static/js/main.e076b017.chunk.js",
-    "main.js.map": "/portfolio-app/static/js/main.e076b017.chunk.js.map",
+    "main.js": "/portfolio-app/static/js/main.2372180a.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.2372180a.chunk.js.map",
     "runtime-main.js": "/portfolio-app/static/js/runtime-main.c721982f.js",
     "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.c721982f.js.map",
-    "static/js/2.09a9d556.chunk.js": "/portfolio-app/static/js/2.09a9d556.chunk.js",
-    "static/js/2.09a9d556.chunk.js.map": "/portfolio-app/static/js/2.09a9d556.chunk.js.map",
+    "static/js/2.c6d02ad2.chunk.js": "/portfolio-app/static/js/2.c6d02ad2.chunk.js",
+    "static/js/2.c6d02ad2.chunk.js.map": "/portfolio-app/static/js/2.c6d02ad2.chunk.js.map",
     "index.html": "/portfolio-app/index.html",
-    "precache-manifest.e8f9eb4adef78b96be29039e56c567e0.js": "/portfolio-app/precache-manifest.e8f9eb4adef78b96be29039e56c567e0.js",
+    "precache-manifest.5b82e18c4d3768860e22013f3a5f614c.js": "/portfolio-app/precache-manifest.5b82e18c4d3768860e22013f3a5f614c.js",
     "service-worker.js": "/portfolio-app/service-worker.js",
     "static/css/main.3ea3a6bd.chunk.css.map": "/portfolio-app/static/css/main.3ea3a6bd.chunk.css.map",
-    "static/js/2.09a9d556.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.09a9d556.chunk.js.LICENSE.txt",
+    "static/js/2.c6d02ad2.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.c6d02ad2.chunk.js.LICENSE.txt",
     "static/media/OscarOrnelasResume.pdf": "/portfolio-app/static/media/OscarOrnelasResume.2f75676a.pdf",
     "static/media/calculator.PNG": "/portfolio-app/static/media/calculator.8ce26482.PNG",
     "static/media/classical_junkie.PNG": "/portfolio-app/static/media/classical_junkie.4b1dc084.PNG",
     "static/media/film_box.PNG": "/portfolio-app/static/media/film_box.144c2cbb.PNG",
-    "static/media/real_speak.PNG": "/portfolio-app/static/media/real_speak.f1a70084.PNG"
+    "static/media/real_speak.PNG": "/portfolio-app/static/media/real_speak.f1a70084.PNG",
+    "static/media/shop_games.PNG": "/portfolio-app/static/media/shop_games.f90e0aab.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.c721982f.js",
-    "static/js/2.09a9d556.chunk.js",
+    "static/js/2.c6d02ad2.chunk.js",
     "static/css/main.3ea3a6bd.chunk.css",
-    "static/js/main.e076b017.chunk.js"
+    "static/js/main.2372180a.chunk.js"
   ]
 }
